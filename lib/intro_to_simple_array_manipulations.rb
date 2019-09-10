@@ -17,4 +17,4 @@ end
     ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
   ice_cream_brands.shift_with_args
 end
-  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
