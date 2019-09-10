@@ -11,8 +11,8 @@ end
     continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
     continents.pop_with_args
 end
-  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  bouroughs_in_nyc.shift
+ my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  my_favorite_cities.shift
 end
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.shift_with_args
