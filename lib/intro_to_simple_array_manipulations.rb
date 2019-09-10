@@ -13,3 +13,8 @@ end
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.shift
 end
+  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  bouroughs_in_nyc.shift_with_args
+end
+  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  
