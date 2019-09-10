@@ -17,4 +17,7 @@ end
     ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
   ice_cream_brands.shift_with_args("Blue Bell Creameries", "Ben & Jerry's")
 end
+
 my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+my_favorite_things.concat("sports cars","flat iron school")
+end
