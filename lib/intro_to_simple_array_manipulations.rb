@@ -7,3 +7,6 @@ end
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.pop
 end
+  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  bouroughs_in_nyc.pop_with_args
+end
