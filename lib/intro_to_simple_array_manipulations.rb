@@ -30,4 +30,5 @@ list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective 
 list_of_programming_languages.insert("python")
 end
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
-  haircuts
+  haircuts.uniq("bob")
+end
