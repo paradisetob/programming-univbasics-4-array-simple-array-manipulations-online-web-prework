@@ -12,7 +12,7 @@ end
     continents.pop_with_args
 end
  my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  my_favorite_cities.shift
+  my_favorite_cities.shift("Lagos")
 end
     ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
   ice_cream_brands.shift_with_args
