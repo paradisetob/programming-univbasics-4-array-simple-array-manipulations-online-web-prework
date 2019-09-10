@@ -32,3 +32,6 @@ end
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   haircuts.uniq("bob")
 end
+instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
+instruments.flatten
+end
