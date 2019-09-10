@@ -8,8 +8,8 @@ end
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   continents.pop
 end
-  
-  bouroughs_in_nyc.pop_with_args
+    continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+    continents.pop_with_args
 end
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.shift
