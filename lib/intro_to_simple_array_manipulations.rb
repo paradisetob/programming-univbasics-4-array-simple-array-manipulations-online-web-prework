@@ -4,7 +4,8 @@ end
   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
   bouroughs_in_nyc.unshift("Staten_island")
 end
-bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+
+
 
   bouroughs_in_nyc.pop
 end
